@@ -8,19 +8,41 @@
 
 /* Begin PBXBuildFile section */
 		CCE745AC21C269FA00B834BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE745AB21C269FA00B834BA /* AppDelegate.swift */; };
-		CCE745AE21C269FA00B834BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE745AD21C269FA00B834BA /* ViewController.swift */; };
 		CCE745B021C269FC00B834BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCE745AF21C269FC00B834BA /* Assets.xcassets */; };
 		CCE745B321C269FC00B834BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCE745B121C269FC00B834BA /* Main.storyboard */; };
+		CCE745C621C26A5400B834BA /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745BC21C26A5400B834BA /* nssl0049.jpg */; };
+		CCE745C721C26A5400B834BA /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745BD21C26A5400B834BA /* nssl0046.jpg */; };
+		CCE745C821C26A5400B834BA /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745BE21C26A5400B834BA /* nssl0091.jpg */; };
+		CCE745C921C26A5400B834BA /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745BF21C26A5400B834BA /* nssl0045.jpg */; };
+		CCE745CA21C26A5400B834BA /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C021C26A5400B834BA /* nssl0051.jpg */; };
+		CCE745CB21C26A5400B834BA /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C121C26A5400B834BA /* nssl0041.jpg */; };
+		CCE745CC21C26A5400B834BA /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C221C26A5400B834BA /* nssl0042.jpg */; };
+		CCE745CD21C26A5400B834BA /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C321C26A5400B834BA /* nssl0043.jpg */; };
+		CCE745CE21C26A5400B834BA /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C421C26A5400B834BA /* nssl0033.jpg */; };
+		CCE745CF21C26A5400B834BA /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCE745C521C26A5400B834BA /* nssl0034.jpg */; };
+		CCE745D321C26CF700B834BA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE745D221C26CF700B834BA /* DetailViewController.swift */; };
+		CCE745D721C28A4D00B834BA /* SourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE745D621C28A4D00B834BA /* SourceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CCE745A821C269FA00B834BA /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCE745AB21C269FA00B834BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CCE745AD21C269FA00B834BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CCE745AF21C269FC00B834BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCE745B221C269FC00B834BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CCE745B421C269FC00B834BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCE745B521C269FC00B834BA /* Project1.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Project1.entitlements; sourceTree = "<group>"; };
+		CCE745BC21C26A5400B834BA /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		CCE745BD21C26A5400B834BA /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		CCE745BE21C26A5400B834BA /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		CCE745BF21C26A5400B834BA /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		CCE745C021C26A5400B834BA /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		CCE745C121C26A5400B834BA /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		CCE745C221C26A5400B834BA /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		CCE745C321C26A5400B834BA /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		CCE745C421C26A5400B834BA /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		CCE745C521C26A5400B834BA /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		CCE745D221C26CF700B834BA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		CCE745D621C28A4D00B834BA /* SourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,14 +75,33 @@
 		CCE745AA21C269FA00B834BA /* Project1 */ = {
 			isa = PBXGroup;
 			children = (
+				CCE745D621C28A4D00B834BA /* SourceViewController.swift */,
 				CCE745AB21C269FA00B834BA /* AppDelegate.swift */,
-				CCE745AD21C269FA00B834BA /* ViewController.swift */,
 				CCE745AF21C269FC00B834BA /* Assets.xcassets */,
 				CCE745B121C269FC00B834BA /* Main.storyboard */,
+				CCE745D221C26CF700B834BA /* DetailViewController.swift */,
+				CCE745BB21C26A5400B834BA /* Content */,
 				CCE745B421C269FC00B834BA /* Info.plist */,
 				CCE745B521C269FC00B834BA /* Project1.entitlements */,
 			);
 			path = Project1;
+			sourceTree = "<group>";
+		};
+		CCE745BB21C26A5400B834BA /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				CCE745BC21C26A5400B834BA /* nssl0049.jpg */,
+				CCE745BD21C26A5400B834BA /* nssl0046.jpg */,
+				CCE745BE21C26A5400B834BA /* nssl0091.jpg */,
+				CCE745BF21C26A5400B834BA /* nssl0045.jpg */,
+				CCE745C021C26A5400B834BA /* nssl0051.jpg */,
+				CCE745C121C26A5400B834BA /* nssl0041.jpg */,
+				CCE745C221C26A5400B834BA /* nssl0042.jpg */,
+				CCE745C321C26A5400B834BA /* nssl0043.jpg */,
+				CCE745C421C26A5400B834BA /* nssl0033.jpg */,
+				CCE745C521C26A5400B834BA /* nssl0034.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,7 +162,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCE745CD21C26A5400B834BA /* nssl0043.jpg in Resources */,
+				CCE745CE21C26A5400B834BA /* nssl0033.jpg in Resources */,
+				CCE745CB21C26A5400B834BA /* nssl0041.jpg in Resources */,
+				CCE745C821C26A5400B834BA /* nssl0091.jpg in Resources */,
+				CCE745CA21C26A5400B834BA /* nssl0051.jpg in Resources */,
 				CCE745B021C269FC00B834BA /* Assets.xcassets in Resources */,
+				CCE745CC21C26A5400B834BA /* nssl0042.jpg in Resources */,
+				CCE745C721C26A5400B834BA /* nssl0046.jpg in Resources */,
+				CCE745C621C26A5400B834BA /* nssl0049.jpg in Resources */,
+				CCE745C921C26A5400B834BA /* nssl0045.jpg in Resources */,
+				CCE745CF21C26A5400B834BA /* nssl0034.jpg in Resources */,
 				CCE745B321C269FC00B834BA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -133,8 +184,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CCE745AE21C269FA00B834BA /* ViewController.swift in Sources */,
+				CCE745D721C28A4D00B834BA /* SourceViewController.swift in Sources */,
 				CCE745AC21C269FA00B834BA /* AppDelegate.swift in Sources */,
+				CCE745D321C26CF700B834BA /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
